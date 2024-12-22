@@ -1,0 +1,15 @@
+C:\gitclone\sharp\MyProject\bin\Debug\net9.0\MyProject.exe
+C:\gitclone\sharp\MyProject\bin\Debug\net9.0\MyProject.deps.json
+C:\gitclone\sharp\MyProject\bin\Debug\net9.0\MyProject.runtimeconfig.json
+C:\gitclone\sharp\MyProject\bin\Debug\net9.0\MyProject.dll
+C:\gitclone\sharp\MyProject\bin\Debug\net9.0\MyProject.pdb
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfoInputs.cache
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfo.cs
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\MyProject.csproj.CoreCompileInputs.cache
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\MyProject.sourcelink.json
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\MyProject.dll
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\refint\MyProject.dll
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\MyProject.pdb
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\MyProject.genruntimeconfig.cache
+C:\gitclone\sharp\MyProject\obj\Debug\net9.0\ref\MyProject.dll
